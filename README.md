@@ -1,0 +1,2 @@
+# project_allegromoltov_ai
+あれぐろもると楽曲風の短いクリップを自動生成するプロジェクト
