@@ -136,3 +136,6 @@ tmp/
 
 # Sample files
 samples/
+
+# Jupyter trash
+.Trash-0/
