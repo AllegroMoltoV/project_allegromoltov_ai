@@ -133,3 +133,6 @@ data/
 
 # Tmp File
 tmp/
+
+# Sample files
+samples/
