@@ -1,7 +1,7 @@
 # project_allegromoltov_ai
 あれぐろもると楽曲風の短いクリップを自動生成するプロジェクト
 
-## 使い方( Windows 編)
+## 使い方 ( Windows 編 )
 
 1. Git for Windows をインストールします。 ( https://gitforwindows.org/ )
 1. Git の初期設定をします。 (詳しくは https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9 等のページが参考になります)
