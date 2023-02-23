@@ -55,10 +55,11 @@
       ```
       
 1. Windows Powershell に表示された URL に接続します。 http://127.0.0.1:8888/?token=xxxxxxxxxxxxxxxxxxxxxx といったものです。このアドレスをコピーして、ブラウザの URL 欄に貼り付けて接続します。
-1. Home フォルダーに data というフォルダーを作成し、その中に models, arrays, out, wav44100 というフォルダーを作成します。(今は手動でフォルダーを作る必要がありますが、そのうち自動で作成するようにしようと思います。)
+1. Home に data というフォルダーを作成し、その中に models, arrays, out, wav44100 というフォルダーを作成します。(今は手動でフォルダーを作る必要がありますが、そのうち自動で作成するようにしようと思います。)
 
       ![image](https://user-images.githubusercontent.com/77569633/220796386-99439722-efd2-4673-ae88-98e9d7c53db2.png)
       
+1. /data/arrays の中に、次のリンク先にある fft_log_normalized.npy と clips.npy を保存します。
 1. wav44100 フォルダーに サンプリングレートが 44100Hz の、 16bit WAV ファイルを格納します。(今はこの形式のファイルにのみ対応しています。)
 1. /src/FFT.ipynb を開き、上から順に実行していきます。
 1. /data/out に fft_out_1.wav, fft_out_2.wav, fft_out_3.wav が出力されます。チェックボックスにチェックを入れ Download ボタンを押してダウンロードしてもよいですが、 クローンした project-allegromolto-am フォルダーにある out フォルダーの中にあるのでそれを直接再生すれば OK です。
