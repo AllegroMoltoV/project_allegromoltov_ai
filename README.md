@@ -5,7 +5,7 @@
 
 1. Git for Windows をインストールします。 ( https://gitforwindows.org/ )
 1. Git の初期設定をします。 (詳しくは https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9 等のページが参考になります)
-1. 本リポジトリ (project_allegromolto_ai) をクローンします。今回は D ドライブ直下にクローンする想定で説明します。Git Bash を開いて、次のようにコマンドを入力します。 <br>
+1. 本リポジトリ (project_allegromoltov_ai) をクローンします。今回は D ドライブ直下にクローンする想定で説明します。Git Bash を開いて、次のようにコマンドを入力します。 <br>
 ```
 $ cd /d
 $ git clone git@github.com:AllegroMoltoV/project_allegromoltov_ai.git
