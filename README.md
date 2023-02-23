@@ -59,10 +59,10 @@
 
       ![image](https://user-images.githubusercontent.com/77569633/220796386-99439722-efd2-4673-ae88-98e9d7c53db2.png)
       
-1. /data/arrays の中に、次のリンク先にある fft_log_normalized.npy と clips.npy を保存します。
-1. wav44100 フォルダーに サンプリングレートが 44100Hz の、 16bit WAV ファイルを格納します。(今はこの形式のファイルにのみ対応しています。)
-1. /src/FFT.ipynb を開き、上から順に実行していきます。
-1. /data/out に fft_out_1.wav, fft_out_2.wav, fft_out_3.wav が出力されます。チェックボックスにチェックを入れ Download ボタンを押してダウンロードしてもよいですが、 クローンした project-allegromolto-am フォルダーにある out フォルダーの中にあるのでそれを直接再生すれば OK です。
+1. エクスプローラーで D ドライブを開くと、 project_allegromoltov_ai/data/arrays フォルダーができているので、その中に、次のリンク先の arrays フォルダー内にある fft_log_normalized.npy と clips.npy をコピーしてきます。 https://drive.google.com/drive/folders/16LL5iiEHSQfek-JgDFpxIXNr61YIox3p?usp=sharing
+3. wav44100 フォルダーに サンプリングレートが 44100Hz の、 16bit WAV ファイルを格納します。(今はこの形式のファイルにのみ対応しています。)
+4. /src/FFT.ipynb を開き、上から順に実行していきます。
+5. /data/out に fft_out_1.wav, fft_out_2.wav, fft_out_3.wav が出力されます。チェックボックスにチェックを入れ Download ボタンを押してダウンロードしてもよいですが、 クローンした project-allegromolto-am フォルダーにある out フォルダーの中にあるのでそれを直接再生すれば OK です。
 
 ## システムの説明
 
