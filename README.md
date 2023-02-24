@@ -53,7 +53,7 @@
       ```
       > docker run -it -p 8888:8888 -v D:/project_allegromoltov_ai:/tf tensorflow/tensorflow:latest-jupyter
       ```
-      
+      cudaの設定に自信がある方は、tensorflow/tensorflow:latest-jupyter の代わりに tensorflow/tensorflow:latest-gpu-jupyter イメージを引っ張ってきてもいいと思います。
 1. Windows Powershell に表示された URL に接続します。 http://127.0.0.1:8888/?token=xxxxxxxxxxxxxxxxxxxxxx といったものです。このアドレスをコピーして、ブラウザの URL 欄に貼り付けて接続します。
 1. Home に data というフォルダーを作成し、その中に models, arrays, out, wav44100 というフォルダーを作成します。(今は手動でフォルダーを作る必要がありますが、そのうち自動で作成するようにしようと思います。)
 
