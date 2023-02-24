@@ -59,8 +59,8 @@
 
       ![image](https://user-images.githubusercontent.com/77569633/220796386-99439722-efd2-4673-ae88-98e9d7c53db2.png)
       
-1. エクスプローラーで D ドライブを開くと、 project_allegromoltov_ai/data/arrays フォルダーができているので、その中に必要なデータをダウンロードしてきましょう。次のリンク先の arrays フォルダー内にある fft_log.npy と fft_log_normalized.npy と clips.npy をローカルの arrays フォルダ－内にコピーします。 https://1drv.ms/u/s!AnNGKzbxk33_5i_jtm0-o5HaVgI9?e=7Si7nE
-1. 手持ちの wav ファイルで試してみたい場合は、fft_log.npy と fft_log_normalized.npy と clips.npy を削除し、 wav44100 フォルダーに サンプリングレートが 44100Hz の、 16bit WAV ファイルを格納します。(今はこの形式のファイルにのみ対応しています。)
+1. エクスプローラーで D ドライブを開くと、 project_allegromoltov_ai/data/arrays フォルダーができているので、その中に必要なデータをダウンロードしてきましょう。次のリンク先の arrays フォルダー内にある clips.npy をローカルの arrays フォルダ－内にコピーします。 https://1drv.ms/u/s!AnNGKzbxk33_5i_jtm0-o5HaVgI9?e=7Si7nE
+1. 手持ちの wav ファイルで試してみたい場合は、 clips.npy を削除し、 wav44100 フォルダーに サンプリングレートが 44100Hz の、 16bit WAV ファイルを格納します。(今はこの形式のファイルにのみ対応しています。)
 1. /src/FFT.ipynb を開き、上から順に実行していきます。
 1. /data/out に fft_out_1.wav, fft_out_2.wav, fft_out_3.wav が出力されます。チェックボックスにチェックを入れ Download ボタンを押してダウンロードしてもよいですが、 ローカルの project-allegromolto-am フォルダーの、 out フォルダーの中にあるので、それを直接再生すれば OK です。
 
