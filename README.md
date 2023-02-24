@@ -67,3 +67,7 @@
 ## システムの説明
 
 ![allegromoltov_ai drawio](https://user-images.githubusercontent.com/77569633/220806371-b967c477-90f8-40b5-9d50-4f3fc8f723e0.png)
+
+## お願い
+
+本システムで得られた出力を有料で販売する行為は固くお断りいたします。なお、何かしらの用途に使用したいということでしたら、あれぐろもるとにご相談ください。 あれぐろもるとTwitter: https://twitter.com/AllegroMoltoV
