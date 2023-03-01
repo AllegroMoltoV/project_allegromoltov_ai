@@ -142,3 +142,6 @@ samples/
 
 # model logs
 logs/models
+
+# Jupyter checkpoints
+*/.ipynb_checkpoints
