@@ -62,7 +62,7 @@
       
 1. エクスプローラーで D ドライブを開くと、 project_allegromoltov_ai/data/arrays フォルダーができているので、その中に必要なデータをダウンロードしてきましょう。次のリンク先の arrays フォルダー内にある clips.npy をローカルの arrays フォルダ－内にコピーします。 https://1drv.ms/u/s!AnNGKzbxk33_5i_jtm0-o5HaVgI9?e=7Si7nE
 1. 手持ちの wav ファイルで試してみたい場合は、 clips.npy を削除し、 wav44100 フォルダーに サンプリングレートが 44100Hz の .wav ファイルを格納します。(今はこの形式のファイルにのみ対応しています。)
-1. /src/CQT_CHROMA.ipynb を開き、上から順に実行していきます。SHIFT+ENTERで実行できます。
+1. /src/independent.ipynb を開き、上から順に実行していきます。SHIFT+ENTERで実行できます。
 1. /data/out に out_xxxxxx_0.wav, ~ out_xxxxxx_9.wav が出力されます。チェックボックスにチェックを入れ Download ボタンを押してダウンロードしてもよいですが、 ローカルの project_allegromolto_am フォルダーの、 out フォルダーの中にあるので、それを直接再生すれば OK です。
 
 ## システムの説明
